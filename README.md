@@ -55,19 +55,6 @@ AI-Resume-Screening-System
 4. Upload PDF resumes.
 5. View candidate rankings.
 
-## Screenshots
-
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Resume Upload
-
-![Upload Resume](screenshots/upload.png)
-
-### Ranking Result
-
-![Ranking Result](screenshots/result.png)
 
 ## Output
 
@@ -87,5 +74,6 @@ The system generates:
 * Advanced Skill Matching
 
 ## Author
+Aishwarya Kulkarni
 
 Aishwarya Kulkarni
